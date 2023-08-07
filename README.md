@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://pbs.twimg.com/profile_banners/602051056/1640619011/1500x500" alt="nebulosa" width="700px">
+  <img src="https://pbs.twimg.com/profile_banners/602051056/1640619011/1500x500" target="blank" alt="nebulosa" width="700px">
   <div id="badges">
     <a href="https://twitter.com/CapuzR">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="blank" alt="Twitter Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/ricardo-capuz-b384b964">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
