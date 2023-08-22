@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: 
    - capuzr on Discord or Telegram
-   - [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/CapuzR)
+   - [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CapuzR)
 ---
 
 ### :hammer_and_wrench: Main Languages and Tools curently using :
